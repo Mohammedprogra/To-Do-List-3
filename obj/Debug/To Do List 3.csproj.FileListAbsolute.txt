@@ -1,0 +1,11 @@
+E:\C#\To Do List 3\bin\Debug\To Do List 3.exe.config
+E:\C#\To Do List 3\bin\Debug\To Do List 3.exe
+E:\C#\To Do List 3\bin\Debug\To Do List 3.pdb
+E:\C#\To Do List 3\obj\Debug\To Do List 3.csproj.AssemblyReference.cache
+E:\C#\To Do List 3\obj\Debug\To_Do_List_3.Form1.resources
+E:\C#\To Do List 3\obj\Debug\To_Do_List_3.Properties.Resources.resources
+E:\C#\To Do List 3\obj\Debug\To Do List 3.csproj.GenerateResource.cache
+E:\C#\To Do List 3\obj\Debug\To Do List 3.csproj.CoreCompileInputs.cache
+E:\C#\To Do List 3\obj\Debug\To Do List 3.exe
+E:\C#\To Do List 3\obj\Debug\To Do List 3.pdb
+E:\C#\To Do List 3\obj\Debug\To_Do_List_3.ShowMoreInfo.resources
